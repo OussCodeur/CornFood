@@ -1,6 +1,6 @@
 ** Contexte
 
-CornFood est site responsive d'encas sain et bio.
+CornFood est un site responsive d'encas sain et bio.
 
 ** Technologies utilisées :
 HTML / CSS / Bootstrap
